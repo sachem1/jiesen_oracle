@@ -1,0 +1,14 @@
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\bin\Debug\SecrityTool.exe.config
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\bin\Debug\SecrityTool.exe
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\bin\Debug\SecrityTool.pdb
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\bin\Debug\Asesh.Common.dll
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\bin\Debug\YtToolKit.dll
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\bin\Debug\Asesh.Common.pdb
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.csprojAssemblyReference.cache
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.Form.resources
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.Properties.Resources.resources
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.csproj.GenerateResource.cache
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.csproj.CoreCompileInputs.cache
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.csproj.CopyComplete
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.exe
+C:\WorkProject\099_ImprovementTradeCloud\01_Main\03_subsystem\Epass_asesh\SecrityTool\obj\Debug\SecrityTool.pdb
